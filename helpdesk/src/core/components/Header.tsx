@@ -26,10 +26,10 @@ function Header() {
           </div>
           <ul role="listbox" className='list-unstyled border-top mt-2 pt-2 mb-0'>
             <li role="menuitem" className='show-box-items border-bottom-1x text-capitalize mb-1'>
-              <a href='#' className='user-text text-black'>my profile</a>
+              <a href='myprofile' className='user-text text-black'>my profile</a>
             </li>
             <li role="menuitem" className='show-box-items border-bottom-1x text-capitalize'>
-              <a href='#' className='user-text text-danger'>log out</a>
+              <a href='logout' className='user-text text-danger'>log out</a>
             </li>
           </ul>
         </div>
